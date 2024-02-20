@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1593574678 source:c:\users\santiago\desktop\programación unlam c++\(13) el que más aparece y cuantas\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

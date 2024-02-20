@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1595213249 source:c:\users\santiago\desktop\programación unlam c++\cambiando palabras\main.cpp
+	<iostream>
+	<string.h>
+

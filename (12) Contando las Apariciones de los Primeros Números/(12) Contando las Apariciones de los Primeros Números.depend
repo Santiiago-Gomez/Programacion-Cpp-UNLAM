@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1593200724 source:c:\users\santiago\desktop\programación unlam c++\(12) contando las apariciones de los primeros números\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

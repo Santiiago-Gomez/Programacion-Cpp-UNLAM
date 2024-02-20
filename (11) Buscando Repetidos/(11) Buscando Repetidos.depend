@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1593050923 source:c:\users\santiago\desktop\programación unlam c++\(11) buscando repetidos\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

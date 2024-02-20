@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595285220 source:c:\users\santiago\desktop\programación unlam c++\filtrando nombres\main.cpp
+	<iostream>
+	<string.h>
+	<vector>
+

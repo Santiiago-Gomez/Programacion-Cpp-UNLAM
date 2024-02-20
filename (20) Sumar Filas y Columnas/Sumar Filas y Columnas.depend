@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1595541289 source:c:\users\santiago\desktop\programación unlam c++\sumar filas y columnas\main.cpp
+	<iostream>
+	<vector>
+

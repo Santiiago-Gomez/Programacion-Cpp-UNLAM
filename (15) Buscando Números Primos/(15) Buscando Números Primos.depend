@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1593466574 source:c:\users\santiago\desktop\programación unlam c++\(15) buscando números primos\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

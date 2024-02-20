@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1593833517 source:c:\users\santiago\desktop\programación unlam c++\(16) piedra, papel o tijera\main.cpp
+	<iostream>
+	<string.h>
+	<algorithm>
+

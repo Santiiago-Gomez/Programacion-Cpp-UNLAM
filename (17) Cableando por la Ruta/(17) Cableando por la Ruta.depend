@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595116790 source:c:\users\santiago\desktop\programación unlam c++\(17) cableando por la ruta\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
